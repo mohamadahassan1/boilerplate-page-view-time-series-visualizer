@@ -33,7 +33,7 @@ Visualization	Description
 Title:	Daily freeCodeCamp Forum Page Views 5/2016-12/2019
 X-Axis:	Date
 Y-Axis:	Page Views
-(path/to/line_plot.png)
+![Daily freeCodeCamp Forum Page Views Line Plot](line_plot.png)
 
 2. Bar Chart (Yearly and Monthly Average)
 
