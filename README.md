@@ -42,6 +42,7 @@ Visualization	Description
 X-Axis:	Years
 Y-Axis:	Average Page Views
 Legend:	Months
+![Average Page Views Bar Chart](bar_plot.png)
 
 3. Box Plots (Trend and Seasonality Distribution)
 
@@ -56,6 +57,7 @@ Title: Year-wise Box Plot (Trend)	Title: Month-wise Box Plot (Seasonality)
 X-Axis: Year	X-Axis: Month (Jan, Feb, Mar, etc.)
 Y-Axis: Page Views	Y-Axis: Page Views
 
+![Year-wise and Month-wise Box Plots](box_plot.png)
 🚀 How to Run the Code
 
     Clone the repository:
